@@ -1,4 +1,9 @@
-Bien sûr ! Voici une version du README plus sympa avec des emojis pour rendre tout ça plus vivant :
+Update le fichier hackrf-2024.02.1 .zip ne peut pas être mit sur github du fait qu'il soit trop  lourd je met donc le lien pour le télécharger sur Windows et Linux
+
+https://www.mediafire.com/file/tkt2niff6mdqn2v/hackrf-2024.02.1_.zip/file
+
+Durant tout le projet j'ai utilisé Ubuntu et Windows11 
+Bonne lecture et Je vous souhaite une belle découverte
 
 ---
 
